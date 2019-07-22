@@ -1,1 +1,21 @@
-
+body {
+	background-color: lightblue;
+	}
+h1 {
+	color:black;
+}
+p {
+	color: darkgreen;
+}
+a {
+	color:purple;
+}
+.vegetarian {
+	color:yellow;
+}
+.non-vegetarian {
+	color:red;
+}
+#important {
+	background-color:blue;
+}
